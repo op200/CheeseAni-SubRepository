@@ -5,7 +5,8 @@
 !LICENSE
 !README.md
 
-/Subtitles/**/*.*
+Subtitles/**/*.*
+!Subtitles/**/
 !*.ass
 !*.srt
 !README.md
