@@ -1,12 +1,15 @@
 /*
-!.github/
-!Subtitles/
-!.gitignore
-!LICENSE
-!README.md
+!/.github/
+!/.vscode/
+!/.gitignore
+!/.oxfmtrc.jsonc
+!/.markdownlint.jsonc
+!/LICENSE
+!/README.md
+!/Subtitles/
 
-Subtitles/**/*.*
-!Subtitles/**/
+/Subtitles/**/*.*
+!/Subtitles/**/
 !*.ass
 !*.srt
 !README.md

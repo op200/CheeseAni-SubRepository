@@ -1,0 +1,4 @@
+{
+  "ignorePatterns": ["*.toml", "*.md"],
+  "trailingComma": "none"
+}
